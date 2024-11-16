@@ -73,7 +73,7 @@ $response = '$response ='<!DOCTYPE html><html><head><meta http-equiv="Content-Ty
 </html>;
 
 // Send the response back to the device
-echo $response;
+echo $response
 exit();
 ?>
 
